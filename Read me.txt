@@ -1,0 +1,5 @@
+Through in-depth exploratory data analysis (EDA) of the Global Terrorism Database (GTD), 
+the goal is to pinpoint global terrorism hot zones and unravel the dynamic patterns of terrorist activities.
+The insights gained from this analysis aim to inform strategic decisions in counter-terrorism, 
+addressing critical security concerns worldwide.
+
